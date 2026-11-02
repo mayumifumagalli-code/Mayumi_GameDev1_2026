@@ -282,7 +282,6 @@ MonoBehaviour:
   - {fileID: -3089290433521045415}
   - {fileID: 6599028579248403441}
   - {fileID: 4946876977963360486}
-  - {fileID: 8670782177398013868}
   - {fileID: -7972118036998352807}
   - {fileID: 6882529450389900568}
 --- !u!114 &4946876977963360486
@@ -353,10 +352,10 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.8, y: 1, z: 1.03, w: 0}
+    m_Value: {x: 0.77669907, y: 0.9708738, z: 1, w: 0}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.88, y: 1, z: 1.02, w: 0}
+    m_Value: {x: 0.8627451, y: 0.98039216, z: 1, w: 0}
   highlights:
     m_OverrideState: 0
     m_Value: {x: 1, y: 1, z: 1, w: 0}
