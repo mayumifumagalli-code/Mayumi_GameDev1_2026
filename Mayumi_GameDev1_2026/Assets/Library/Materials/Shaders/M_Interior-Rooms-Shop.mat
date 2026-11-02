@@ -27,10 +27,10 @@ Material:
     m_Floats:
     - _DarkRooms: 0.03
     - _Frame: 0.06
-    - _LitRooms: 0.7
+    - _LitRooms: 0.747
     - _RoomDepth: 5
     - _Seed: 0
-    - _Smoothness: 0.92
+    - _Smoothness: 0.79
     m_Colors:
     - _FloorColor: {r: 0.22, g: 0.18, b: 0.15, a: 1}
     - _FrameColor: {r: 0.08, g: 0.08, b: 0.08, a: 1}
