@@ -8,48 +8,53 @@
       "hash": "354ebc5b6ed3c2c40dc9797c813b56d5da213c4e"
     },
     "com.mavrodiev.asset-library": {
-      "version": "1.1.0",
+      "version": "1.3.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.mavrodiev.toolbox": "1.1.0"
+        "com.mavrodiev.toolbox": "1.3.0"
       },
       "url": "https://registry.npmjs.com"
     },
     "com.mavrodiev.gd1": {
-      "version": "26.5.0",
+      "version": "26.7.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.timeline": "1.8.12",
         "com.unity.probuilder": "6.1.3",
-        "com.mavrodiev.toolbox": "1.1.0",
+        "com.mavrodiev.toolbox": "1.3.0",
+        "com.unity.cinemachine": "3.1.7",
         "com.cqf.urpvolumetricfog": "0.5.91",
-        "com.mavrodiev.playground": "1.1.0",
-        "com.mavrodiev.asset-library": "1.1.0",
+        "com.mavrodiev.playground": "1.2.0",
+        "com.mavrodiev.asset-library": "1.3.0",
         "com.unity.learn.iet-framework": "6.0.7"
       },
       "url": "https://registry.npmjs.com"
     },
     "com.mavrodiev.playground": {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.splines": "2.9.1",
         "com.unity.probuilder": "6.1.3",
-        "com.mavrodiev.toolbox": "1.1.0",
+        "com.mavrodiev.toolbox": "1.2.0",
+        "com.unity.terrain-tools": "5.3.3",
         "com.cqf.urpvolumetricfog": "0.5.91",
-        "com.mavrodiev.asset-library": "1.1.0",
+        "com.mavrodiev.asset-library": "1.2.0",
         "com.unity.learn.iet-framework": "6.0.7"
       },
       "url": "https://registry.npmjs.com"
     },
     "com.mavrodiev.toolbox": {
-      "version": "1.1.0",
+      "version": "1.3.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.probuilder": "6.1.3",
+        "com.unity.modules.terrain": "1.0.0",
+        "com.unity.modules.terrainphysics": "1.0.0",
         "com.unity.render-pipelines.universal": "17.0.3"
       },
       "url": "https://registry.npmjs.com"
@@ -101,6 +106,15 @@
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.cinemachine": {
+      "version": "6.6.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.splines": "2.8.4",
+        "com.unity.modules.imgui": "1.0.0"
+      }
     },
     "com.unity.collab-proxy": {
       "version": "2.13.6",
