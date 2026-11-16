@@ -132,16 +132,16 @@ MonoBehaviour:
     m_Value: 1
   enableMainLightContribution:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   anisotropy:
-    m_OverrideState: 0
-    m_Value: 0.4
+    m_OverrideState: 1
+    m_Value: -0.53
   scattering:
     m_OverrideState: 0
     m_Value: 0.15
   tint:
-    m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.13773584, g: 0.06315058, b: 0.06315058, a: 1}
   enableAdditionalLightsContribution:
     m_OverrideState: 1
     m_Value: 0
